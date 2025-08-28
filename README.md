@@ -16,7 +16,11 @@
 
 ## 📸 Preview
 
-The Lumi Wallpaper features a stylized black cat with golden eyes on a beautiful blue gradient background, perfect for a clean and modern desktop aesthetic.
+<div align="center">
+  <img src="lumi-wallpaper.png" alt="Lumi Wallpaper Preview" width="800">
+  
+  *A stylized black cat with golden eyes on a beautiful blue gradient background*
+</div>
 
 ## ✨ Features
 
